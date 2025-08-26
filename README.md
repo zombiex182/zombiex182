@@ -46,19 +46,6 @@
 
 ---
 
-## 🎮 Status & Activity
-
-<div align="center">
-  <!-- Lanyard Discord Activity Badge -->
-  <img src="https://lanyard.cnrad.dev/api/1213542104920494130?bg=1a1b27&borderRadius=10" alt="zombiex182's Discord Status" width="200" onerror="this.style.display='none';document.getElementById('fallback-discord').style.display='block';"/> 
-  <img src="https://img.shields.io/github/followers/zombiex182?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/zombiex182?label=Stars&style=social" alt="GitHub Stars" />
-  <img src="https://komarev.com/ghpvc/?username=zombiex182&color=brightgreen" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Coding%20Like%20a%20Zombie-blueviolet?style=flat-square" alt="Status" />
-</div>
-
----
-
 ## 💭 Random Dev Quote
 
 <div align="center">
