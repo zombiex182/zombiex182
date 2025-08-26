@@ -51,8 +51,7 @@
 
 <div align="center">
   <!-- Lanyard Discord Activity Badge -->
-  <img src="https://lanyard.cnrad.dev/api/1213542104920494130?bg=1a1b27&borderRadius=10" alt="zombiex182's Discord Status" width="200" onerror="this.style.display='none';document.getElementById('fallback-discord').style.display='block';"/>
-  <div id="fallback-discord" style="display:none; color:white;">Discord status will show once you replace the ID with your Discord User ID (see instructions below).</div>
+  <img src="https://lanyard.cnrad.dev/api/1213542104920494130?bg=1a1b27&borderRadius=10" alt="zombiex182's Discord Status" width="200" onerror="this.style.display='none';document.getElementById('fallback-discord').style.display='block';"/> 
   <img src="https://img.shields.io/github/followers/zombiex182?label=Followers&style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/zombiex182?label=Stars&style=social" alt="GitHub Stars" />
   <img src="https://komarev.com/ghpvc/?username=zombiex182&color=brightgreen" alt="Profile Views" />
