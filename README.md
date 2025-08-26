@@ -5,12 +5,11 @@
 
 ---
 
-## 🌟 About Me
+## 🎮 Status & Activity
 
-- 💼 **Aspiring Code Alchemist** crafting solutions with passion and curiosity.
-- 🌐 Fluent in **English** and occasionally fluent in **CodeSpeak** (Python, JavaScript, and more).
-- 🗄️ **Database of Choice**: SQLite for its elegance, but I’m cool with MongoDB and PostgreSQL too.
-- 🎯 **Fun Fact**: I code best with a dark theme, a cold drink, and some lo-fi beats in the background!
+<div align="center">
+  <!-- Lanyard Discord Activity Badge -->
+  <img src="https://lanyard.cnrad.dev/api/1213542104920494130?bg=1a1b27&borderRadius=10" alt="zombiex182's Discord Status" width="200" onerror="this.style.display='none';document.getElementById('fallback-discord').style.display='block';"/> 
 
 ---
 
