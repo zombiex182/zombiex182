@@ -68,12 +68,4 @@
 
 ---
 
-## 🐍 Snake Game
-
-<div align="center">
-  <img src="https://github.com/zombiex182/zombiex182/blob/output/github-contribution-snake.svg" alt="Snake Game" width="400"/>
-</div>
-
----
-
 *Last updated: August 26, 2025, 06:46 PM IST*
